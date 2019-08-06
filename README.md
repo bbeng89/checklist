@@ -1,5 +1,7 @@
 # vue-checklist
 
+Used on http://wheresblake.com/articles/2019/08/06/checklists/ for RV setup/teardown checklists.
+
 ## Project setup
 ```
 npm install
